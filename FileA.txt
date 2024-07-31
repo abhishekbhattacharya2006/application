@@ -1,3 +1,2 @@
 This is my file A
-Change it
-Another change is done here.
+Change it - One more change here.
